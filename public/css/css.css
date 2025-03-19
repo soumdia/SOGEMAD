@@ -1,0 +1,10 @@
+*{ margin: 0px; padding: 0px; }
+header{ height: 90px;background-color: floralwhite; }
+.orange{ color: orangered; }
+img{height: 90px;float: left;margin-left:450px;}
+.mama{margin:0 auto; padding: 0 10px;}
+h1{margin-top: 32px;float: left;font-family:fantasy;}
+nav{ float: right;margin-top: 32px; }
+ul{list-style: none;}
+header nav ul li{display: inline-block; font-weight: bold;margin-right: 20px;background-color: bisque;font-family:sans-serif;}
+a{text-decoration: none;color: orangered;}
